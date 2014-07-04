@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestWheely</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- LoginFragment -->
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="connect_button_label">Connect</string>
+    <string name="login_label_actionbar">Login</string>
+    <string name="label_login_fragment">Ваше текущее местоположение не определено!</string>
+    <string name="empty_label">Введите данные для авторизации!</string>
+
+    <!-- MapFragment -->
+    <string name="disconnect_button_label">Disconnect</string>
+    <string name="map_label_actionbar">Map</string>
+
+</resources>
